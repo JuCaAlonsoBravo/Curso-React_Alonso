@@ -2,3 +2,7 @@
     max-width: 200px;
     border-right: 1px solid black;
 }
+.Nav-Title{
+    font-size: 2rem;
+    font-family: 'Galada', 'Courier New', Courier, monospace;
+}

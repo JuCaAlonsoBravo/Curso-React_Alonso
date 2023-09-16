@@ -1,0 +1,12 @@
+.Nav-Menu{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transform: translate(50%, 100%);
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.Dropdown{
+    position: relative;
+}
