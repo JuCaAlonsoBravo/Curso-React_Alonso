@@ -1,5 +1,5 @@
 import { useState } from "react";
-import './navItem.css';
+import './NavItem.css';
 import './Dropdown.css';
 import { Icon } from "./icono";
 
