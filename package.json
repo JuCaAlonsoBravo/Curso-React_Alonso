@@ -8,7 +8,7 @@
     "build": "vite build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "build:gh":"vite build --base /react-101/ && cp ./dist/index.html ./dist/404.html"
+    "build:gh":"vite build --base /Curso-React_Alonso/ && cp ./dist/index.html ./dist/404.html"
   },
   "dependencies": {
     "react": "^18.2.0",
